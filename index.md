@@ -4,7 +4,6 @@ Spot Alert (“Company”, “we”, “our” or “us”) respects the privacy
 
 This Privacy Policy (the “Privacy Policy”) is intended to describe our practices regarding the information we may collect from you (the “User” or “you”) when you use our App, the manners in which we may use such information, and the options and rights available to you.
 
-Capitalized terms which are not defined herein, shall have the meaning ascribed to them in our End User License Agreement (the “EULA”), available at https://policy.appinnovation.in/todoreminder_privacy_policy.html which this Privacy Policy is incorporated thereto by reference.
 
 ​1.Your Consent – please read carefully.
 
